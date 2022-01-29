@@ -55,6 +55,7 @@ p {
 }
 a {
   color: #ebe974;
+  text-decoration: none;
 }
 .skill-row {
   width: 50%;
