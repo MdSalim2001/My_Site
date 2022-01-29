@@ -46,6 +46,8 @@ h2 {
 p {
   font-family: "Montserrat", sans-serif;
   color: white;
+  margin-bottom:0;
+  padding-bottom:12px;
 }
 .star {
   position: absolute;
@@ -107,7 +109,7 @@ a {
 }
 
 .bottom-container {
-  padding-top: 100px;
+  padding-top: 75px;
   background-color: #1b262c;
 }
 .middle-container {
