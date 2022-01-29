@@ -1,0 +1,129 @@
+h1 {
+  margin: 100px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  color: white;
+  font-size: 562.5%;
+  line-height: 2;
+}
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", papyrus, serif;
+  color: #0f4c75;
+}
+
+.top {
+  background-color: #041c32;
+
+  padding-top: 50px;
+  position: relative;
+}
+.pro {
+  text-decoration: underline;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 20%;
+  bottom: 50%;
+}
+.top-cloud {
+  position: absolute;
+  right: 25%;
+  top: 50px;
+}
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #ebe974;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-top: 20px;
+  margin-top: 0px;
+}
+p {
+  font-family: "Montserrat", sans-serif;
+  color: white;
+}
+.star {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+}
+a {
+  color: #ebe974;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.web-image {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+.game-image {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+/* .code-skill-description {
+  clear: right;
+} */
+
+.btn {
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #9394bf);
+  background-image: -moz-linear-gradient(top, #ffffff, #9394bf);
+  background-image: -ms-linear-gradient(top, #ffffff, #9394bf);
+  background-image: -o-linear-gradient(top, #ffffff, #9394bf);
+  background-image: linear-gradient(to bottom, #ffffff, #9394bf);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid #0a3968 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #dbdbdb;
+  background-image: -webkit-linear-gradient(top, #dbdbdb, #8f8f8f);
+  background-image: -moz-linear-gradient(top, #dbdbdb, #8f8f8f);
+  background-image: -ms-linear-gradient(top, #dbdbdb, #8f8f8f);
+  background-image: -o-linear-gradient(top, #dbdbdb, #8f8f8f);
+  background-image: linear-gradient(to bottom, #dbdbdb, #8f8f8f);
+  text-decoration: none;
+}
+
+.bottom-container {
+  padding-top: 100px;
+  background-color: #1b262c;
+}
+.middle-container {
+  padding-bottom: 30px;
+  background-color: #0f4c75;
+  padding-top: 20px;
+}
+hr {
+  border: 5px dotted #eaf6f6;
+  border-bottom: 0px;
+  width: 10%;
+}
+.prog:hover {
+  color: rgb(0, 0, 0);
+}
+.gify {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
