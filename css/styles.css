@@ -59,6 +59,9 @@ a {
   color: #ebe974;
   text-decoration: none;
 }
+a:hover{
+color:#EAF6F6;
+}
 .skill-row {
   width: 50%;
   margin: 100px auto;
